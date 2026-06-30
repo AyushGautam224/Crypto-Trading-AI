@@ -14,5 +14,8 @@ An autonomous trading agent that fetches real-time crypto data, performs AI-driv
    python -m venv venv
    .\venv\Scripts\activate
 
-
+3. After activation and enter in the venv environment
+   run this-
+   ```base
+   python main.py
 
